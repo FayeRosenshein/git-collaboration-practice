@@ -1,1 +1,6 @@
-This is my text
+
+#Have a great day!
+
+##and week!
+=======
+Adding new commit
